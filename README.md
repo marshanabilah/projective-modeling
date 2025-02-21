@@ -9,9 +9,13 @@ Farmers have various options when it comes to deciding which crop to plant each 
 ## Dataset
 
 "N": Nitrogen content ratio in the soil
+
 "P": Phosphorous content ratio in the soil
+
 "K": Potassium content ratio in the soil
+
 "pH" value of the soil
+
 "crop": categorical values that contain various crops (target variable).
 
 ## Approach
