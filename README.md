@@ -1,2 +1,2 @@
-# projective-modeling
-Projective Modeling for Agriculture
+# Projective Modeling for Agriculture
+
